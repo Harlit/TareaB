@@ -1,0 +1,15 @@
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/bin/Debug/net6.0/Capitulo5_4_5
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/bin/Debug/net6.0/Capitulo5_4_5.deps.json
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/bin/Debug/net6.0/Capitulo5_4_5.runtimeconfig.json
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/bin/Debug/net6.0/Capitulo5_4_5.dll
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/bin/Debug/net6.0/ref/Capitulo5_4_5.dll
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/bin/Debug/net6.0/Capitulo5_4_5.pdb
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/obj/Debug/net6.0/Capitulo5_4_5.csproj.AssemblyReference.cache
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/obj/Debug/net6.0/Capitulo5_4_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/obj/Debug/net6.0/Capitulo5_4_5.AssemblyInfoInputs.cache
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/obj/Debug/net6.0/Capitulo5_4_5.AssemblyInfo.cs
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/obj/Debug/net6.0/Capitulo5_4_5.csproj.CoreCompileInputs.cache
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/obj/Debug/net6.0/Capitulo5_4_5.dll
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/obj/Debug/net6.0/ref/Capitulo5_4_5.dll
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/obj/Debug/net6.0/Capitulo5_4_5.pdb
+/home/harlit/Documentos/Aplicada1/TareaB/Capitulo5_4_5/obj/Debug/net6.0/Capitulo5_4_5.genruntimeconfig.cache
